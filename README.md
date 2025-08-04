@@ -1,8 +1,6 @@
-# 雷電 - RAIDEN (Web版)
+# 雷電風のゲーム（のはず） - RAIDEN (Web版)
 
 雷電風の縦スクロールシューティングゲームのWeb実装版です。HTML5 Canvas と JavaScript を使用して開発されています。
-
-![Game Screenshot](screenshot.png)
 
 ## 🎮 ゲームの特徴
 
@@ -84,16 +82,4 @@
 
 ## 📝 ライセンス
 
-このプロジェクトは学習・娯楽目的で作成されています。
-オリジナルの「雷電」シリーズの著作権は、それぞれの権利者に帰属します。
-
-## 🤝 貢献
-
-バグ報告や機能提案は Issues へお願いします。
-プルリクエストも歓迎です！
-
----
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude <noreply@anthropic.com>
+MIT ライセンスで公開します。
